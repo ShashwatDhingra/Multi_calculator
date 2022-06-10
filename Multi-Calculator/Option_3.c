@@ -74,16 +74,6 @@ menu_1:
     }
     break;
 
-    if(num == 1)
-    {
-        continue;
-    }
-
-    else
-    {
-        break;
-    }
-
     case (2):
     {
     again_2:
